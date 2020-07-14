@@ -1,0 +1,13 @@
+Package: lumar
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Harold",
+           family = "Selman",
+           role = c("aut", "cre"),
+           email = "haroldselman@gmail.com",
+           comment = c(ORCID = "0000-0002-9863-062X"))
+Description: Transform columns by example in R
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
